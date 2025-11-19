@@ -1,0 +1,88 @@
+Region,Method,loss,fn,fp,recall,precision
+AECO,1. RF Regression + Ranking,5,1,1,0.5,0.5
+AECO,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+AECO,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+AEPAPT,1. RF Regression + Ranking,5,1,1,0.5,0.5
+AEPAPT,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+AEPAPT,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+AEPIMP,1. RF Regression + Ranking,0,0,0,1.0,1.0
+AEPIMP,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+AEPIMP,3. XGBoost Classification + Asymmetric Loss,0,0,0,1.0,1.0
+AEPKPT,1. RF Regression + Ranking,5,1,1,0.5,0.5
+AEPKPT,2. RF Classification + Asymmetric Loss,0,0,0,1.0,1.0
+AEPKPT,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+AEPOPT,1. RF Regression + Ranking,10,2,2,0.0,0.0
+AEPOPT,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+AEPOPT,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+AP,1. RF Regression + Ranking,10,2,2,0.0,0.0
+AP,2. RF Classification + Asymmetric Loss,10,2,2,0.0,0.0
+AP,3. XGBoost Classification + Asymmetric Loss,10,2,2,0.0,0.0
+BC,1. RF Regression + Ranking,5,1,1,0.5,0.5
+BC,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+BC,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+CE,1. RF Regression + Ranking,0,0,0,1.0,1.0
+CE,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+CE,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+DAY,1. RF Regression + Ranking,0,0,0,1.0,1.0
+DAY,2. RF Classification + Asymmetric Loss,10,2,2,0.0,0.0
+DAY,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+DEOK,1. RF Regression + Ranking,10,2,2,0.0,0.0
+DEOK,2. RF Classification + Asymmetric Loss,10,2,2,0.0,0.0
+DEOK,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+DOM,1. RF Regression + Ranking,5,1,1,0.5,0.5
+DOM,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+DOM,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+DPLCO,1. RF Regression + Ranking,5,1,1,0.5,0.5
+DPLCO,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+DPLCO,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+DUQ,1. RF Regression + Ranking,0,0,0,1.0,1.0
+DUQ,2. RF Classification + Asymmetric Loss,0,0,0,1.0,1.0
+DUQ,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+EASTON,1. RF Regression + Ranking,0,0,0,1.0,1.0
+EASTON,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+EASTON,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+EKPC,1. RF Regression + Ranking,0,0,0,1.0,1.0
+EKPC,2. RF Classification + Asymmetric Loss,0,0,0,1.0,1.0
+EKPC,3. XGBoost Classification + Asymmetric Loss,0,0,0,1.0,1.0
+JC,1. RF Regression + Ranking,5,1,1,0.5,0.5
+JC,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+JC,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+ME,1. RF Regression + Ranking,0,0,0,1.0,1.0
+ME,2. RF Classification + Asymmetric Loss,10,2,2,0.0,0.0
+ME,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+OE,1. RF Regression + Ranking,10,2,2,0.0,0.0
+OE,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+OE,3. XGBoost Classification + Asymmetric Loss,0,0,0,1.0,1.0
+OVEC,1. RF Regression + Ranking,10,2,2,0.0,0.0
+OVEC,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+OVEC,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+PAPWR,1. RF Regression + Ranking,5,1,1,0.5,0.5
+PAPWR,2. RF Classification + Asymmetric Loss,10,2,2,0.0,0.0
+PAPWR,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+PE,1. RF Regression + Ranking,0,0,0,1.0,1.0
+PE,2. RF Classification + Asymmetric Loss,10,2,2,0.0,0.0
+PE,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+PEPCO,1. RF Regression + Ranking,0,0,0,1.0,1.0
+PEPCO,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+PEPCO,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+PLCO,1. RF Regression + Ranking,10,2,2,0.0,0.0
+PLCO,2. RF Classification + Asymmetric Loss,10,2,2,0.0,0.0
+PLCO,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+PN,1. RF Regression + Ranking,0,0,0,1.0,1.0
+PN,2. RF Classification + Asymmetric Loss,10,2,2,0.0,0.0
+PN,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+PS,1. RF Regression + Ranking,0,0,0,1.0,1.0
+PS,2. RF Classification + Asymmetric Loss,0,0,0,1.0,1.0
+PS,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+RECO,1. RF Regression + Ranking,5,1,1,0.5,0.5
+RECO,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+RECO,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5
+SMECO,1. RF Regression + Ranking,0,0,0,1.0,1.0
+SMECO,2. RF Classification + Asymmetric Loss,10,2,2,0.0,0.0
+SMECO,3. XGBoost Classification + Asymmetric Loss,0,0,0,1.0,1.0
+UGI,1. RF Regression + Ranking,5,1,1,0.5,0.5
+UGI,2. RF Classification + Asymmetric Loss,10,2,2,0.0,0.0
+UGI,3. XGBoost Classification + Asymmetric Loss,10,2,2,0.0,0.0
+VMEU,1. RF Regression + Ranking,5,1,1,0.5,0.5
+VMEU,2. RF Classification + Asymmetric Loss,5,1,1,0.5,0.5
+VMEU,3. XGBoost Classification + Asymmetric Loss,5,1,1,0.5,0.5

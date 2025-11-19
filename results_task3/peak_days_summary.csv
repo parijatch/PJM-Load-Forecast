@@ -1,0 +1,4 @@
+Method,loss,fn,fp,recall,precision
+1. RF Regression + Ranking,115,23,23,0.603448275862069,0.603448275862069
+3. XGBoost Classification + Asymmetric Loss,135,27,27,0.5344827586206896,0.5344827586206896
+2. RF Classification + Asymmetric Loss,175,35,35,0.39655172413793105,0.39655172413793105
